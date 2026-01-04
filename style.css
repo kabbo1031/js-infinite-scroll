@@ -1,0 +1,13 @@
+body{
+  background:#020617;
+  color:white;
+  font-family:Arial;
+  padding:20px;
+}
+
+li{
+  background:#0f172a;
+  margin:8px 0;
+  padding:12px;
+  border-radius:6px;
+}
